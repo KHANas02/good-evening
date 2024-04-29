@@ -1,0 +1,12 @@
+.header {
+  background: #999999
+    url("background.svg")
+    no-repeat center / cover;
+}
+
+.header__title {
+  color: #ffffff;
+  font-size: 82px;
+  text-transform: uppercase;
+  text-align: center;
+}
